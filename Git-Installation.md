@@ -1,10 +1,14 @@
-# Git Commands Repository
+# Git Installation 
 
-## Description
+## What is Git ?
 
 Git-Commands is a repository that documents essential Git commands along with their explanations and functionalities. This serves as a quick reference guide for developers of all levels to understand and efficiently use Git for version control.
 
-##Installation (Method 1)
+## How Git & GitHub Differs
+
+## What is Git-Bash
+
+## Installation (Method 1)
 
 Install Git Bash to run Git commands efficiently on your system. Download it from the official site : 🔗[Download Git](https://git-scm.com/downloads)
 
