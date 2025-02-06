@@ -4,9 +4,11 @@
 
 Git-Commands is a repository that documents essential Git commands along with their explanations and functionalities. This serves as a quick reference guide for developers of all levels to understand and efficiently use Git for version control.
 
-## How Git & GitHub Differs
+## How Git & GitHub Differs ?
 
-## What is Git-Bash
+## What is Git-Bash ?
+
+## Git-Bash a Command-Line Interface - CLI
 
 ## Installation (Method 1)
 
