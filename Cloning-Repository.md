@@ -2,7 +2,7 @@
 
 ## Description
 
-In this repository, we will comprehensively explore fundamental concepts such as `Cloning`, `Repository`, `Git Commands`, and various other related topics. Additionally, we will delve into the essential commands required for `cloning a repository`, `staging changes`, `committing modifications`, `pushing updates to a GitHub repository`, and verifying the repository `status`. This documentation aims to provide a structured understanding of Git operations, facilitating efficient version control and collaborative development.
+In this repository, we will comprehensively explore fundamental concepts such as `Cloning`, `Repository`, `Git Commands`, and various other related topics. Additionally, we will delve into the essential commands required for `cloning` a repository, `staging` changes, `committing modifications`, `pushing updates to a GitHub repository`, and verifying the repository `status`. This documentation aims to provide a structured understanding of Git operations, facilitating efficient version control and collaborative development.
 
 ## What is cloning ?
 
