@@ -11,3 +11,7 @@ A `Git repository` is a storage location (a folder) named as `.git` which contai
 ## What is Pushing ?
 
 `Push` in Git is the process of transferring `committed` changes from a `local repository` to a `remote` repository. It ensures that updates made locally are reflected in the `remote repository`, enabling collaboration and version synchronization.
+
+## Step-by-Step Guide to Cloning a Repository
+
+### *Step-1 :*
