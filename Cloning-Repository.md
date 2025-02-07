@@ -10,4 +10,4 @@ A `Git repository` is a storage location (a folder) named as `.git` which contai
 
 ## What is Pushing ?
 
-A `Git repository` is a version-controlled storage location that tracks changes to project files. It contains `commits`, `branches`, and `history`, enabling efficient collaboration and code management. A repository can be `local` (on a personal machine) or `remote` (hosted on platforms like `GitHub`, `GitLab`, or `Bitbucket`).
+`Push` in Git is the process of transferring `committed` changes from a `local repository` to a `remote` repository. It ensures that updates made locally are reflected in the `remote repository`, enabling collaboration and version synchronization.
