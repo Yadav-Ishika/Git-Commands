@@ -16,7 +16,8 @@ A `Git repository` is a storage location (a folder) named as `.git` which contai
 
 <b>Step-1 :</b> `Open Terminal or Command Prompt`
 - Navigate to the directory where you want to clone the repository.
-<p><b>Step-2 :</b> `Copy the Repository URL`</p>
 - Obtain the repository URL from GitHub, GitLab, or another remote Git hosting platform.
 ![Git Clone Snap](Screenshots/cloning-link.png)
 <p><b>Step-3</b></p>
+
+<p><b>Step-2 :</b> `Copy the Repository URL`</p>
