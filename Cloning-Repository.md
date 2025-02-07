@@ -14,4 +14,4 @@ A `Git repository` is a storage location (a folder) named as `.git` which contai
 
 ## Step-by-Step Guide to Cloning a Repository
 
-### Step-1 : `Open Terminal or Command Prompt`
+<b>Step-1 :</b> `Open Terminal or Command Prompt`
