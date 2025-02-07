@@ -9,3 +9,5 @@ In this repository, we will comprehensively explore fundamental concepts such as
 A `Git repository` is a storage location (a folder) named as `.git` which contains several files and folders that tracks and manages all versions (updates) of a project's files. It contains the complete history of changes, including `commits`, `branches`, and `metadata`, allowing for efficient `version control` and collaboration. A repository can be `local` (on a personal machine like a laptop) or `remote` (hosted on platforms like `GitHub`, `GitLab`, or `Bitbucket`).
 
 ## What is Pushing ?
+
+A `Git repository` is a version-controlled storage location that tracks changes to project files. It contains `commits`, `branches`, and `history`, enabling efficient collaboration and code management. A repository can be `local` (on a personal machine) or `remote` (hosted on platforms like `GitHub`, `GitLab`, or `Bitbucket`).
